@@ -50,7 +50,7 @@ export default function Landing() {
       {/* Main content - centered */}
       <main className="relative z-10 h-full flex flex-col items-center justify-center px-6">
         <h1 className="text-center text-[clamp(28px,6vw,64px)] font-medium tracking-tight mb-4">
-          Turn Chats into Apps
+          remix-stand-53-06
         </h1>
         
         {/* Rotating slogans */}
@@ -82,3 +82,4 @@ export default function Landing() {
     </div>
   );
 }
+
